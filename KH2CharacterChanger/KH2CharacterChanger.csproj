@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9DD0CDD7-DE05-4CF2-AA97-82F3F035148E}</ProjectGuid>
+    <ProjectGuid>{667E6AD3-76C5-447E-9B65-FC2E87F9E252}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>KingdomHearts2</RootNamespace>

@@ -19,7 +19,7 @@ namespace KingdomHearts2
 		string myName = "Kingdom Hearts 2.5 Character Changer";
 		string myDescription = "Play As Other Characters!";
 		string myAuthor = "Neriek";
-		string myVersion = "0.2";
+		string myVersion = "0.3";
 		string myTabText = "Kingdom Hearts 2 Character Changer";
 		static IPluginHost myHost = null;
 		//User Control to print

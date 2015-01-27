@@ -117,4 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="textBox1.Text" xml:space="preserve">
+    <value>This is a basic NetCheatPS3 plugin for Kingdom Hearts 2.5 Final Mix(duh), it's
+main function is to change Sora, Donald, Goofy, and the Guest Character. 
+Keep in mind that KH2.5 Final Mix is a little more unstable with codes than 
+the original game, the plugin is also in it's early stages, and finally while I 
+have a bit of experience with C based languages in the past, I am still new
+to C#. There is so much I don't know and so little I do, so don't be surprised
+if some things don't work the way they should, or at all.
+This plugin is Open Source, so if you want to use it for anything, go for it.
+While I have reduced crashing with switching characters, it still happens
+now and then, just have patience, or give up and play normally.
+
+Eventually, when the Character Modifier tabs are finished, I am considering
+adding tabs for regular cheats, weapon modifiers, etc. Don't expect much
+as I don't spend all my time working on this.</value>
+  </data>
 </root>

@@ -1,0 +1,10 @@
+C:\Users\Keiren\Desktop\NetCheat\Plugins\KH2CharacterChanger.dll
+C:\Users\Keiren\Desktop\NetCheat\Plugins\KH2CharacterChanger.pdb
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KH2CharacterChanger.csprojResolveAssemblyReference.cache
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KingdomHearts2.ctlIcon.resources
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KingdomHearts2.ctlMain.resources
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KingdomHearts2.helpwindow.resources
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KingdomHearts2.Properties.Resources.resources
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KH2CharacterChanger.csproj.GenerateResource.Cache
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KH2CharacterChanger.dll
+C:\Users\Keiren\Documents\Visual Studio 2013\Projects\KH2CharacterChanger\KH2CharacterChanger\obj\Debug\KH2CharacterChanger.pdb

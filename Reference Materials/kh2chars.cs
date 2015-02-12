@@ -38,13 +38,13 @@
 03E8 - Sora (Meister-Form / Master-Form) (Halloween Town) (Glitchy)
 03E9 - Sora (Über-Form / Final-Form) (Halloween Town) (Halloween Town) (Glitchy)
 03EA - Sora (Anti-Form) (Halloween Town) (Glitchy)
-04F5 - Goofy (Fluss der Nostalgie / Timeless River) (Glitchy)
-0554 - Goofy (Space Paranoids) (Glitchy)
-055A - Donald (Space Paranoids) (Glitchy)
-05CF - Donald (Fluss der Nostalgie / Timeless River) (Glitchy)
+04F5 - Goofy (Fluss der Nostalgie / Timeless River) (Glitchy)//added
+0554 - Goofy (Space Paranoids) (Glitchy)//added
+055A - Donald (Space Paranoids) (Glitchy)//added
+05CF - Donald (Fluss der Nostalgie / Timeless River) (Glitchy)//added
 061C - Squall / Leon (Partner!)
-0656 - Sora (Space Paranoids) (Glitchy)
-0657 - Sora (Fluss der Nostalgie / Timeless River) (Glitchy)
+0656 - Sora (Space Paranoids) (Glitchy)//aded
+0657 - Sora (Fluss der Nostalgie / Timeless River) (Glitchy)//added
 0669 - Sora (Helden-Form / Valor-Form) (Space Paranoids) (Glitchy)
 066A - Sora (Helden-Form / Valor-Form) (Fluss der Nostalgie / Timeless River) (Glitchy)
 066B - Sora (Weisen-Form / Wisdom Form) (Space Paranoids) (Glitchy)
